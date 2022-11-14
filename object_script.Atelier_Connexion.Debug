@@ -1,0 +1,14 @@
+INPUT(
+./debug\avis.o
+./debug\connection.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\qrcode.o
+./debug\qrcode.o
+./debug\qrcodegeneratordemo.o
+./debug\qrcodegeneratorworker.o
+./debug\qrwidget.o
+./debug\qrc_resource.o
+./debug\moc_mainwindow.o
+./debug\moc_qrwidget.o
+);
